@@ -1,0 +1,16 @@
+{
+  "name": "YouTube-unofficial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Huy Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "2.2.16",
+    "youtube-parser": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
